@@ -20,13 +20,16 @@
 
 ![Dumidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dumidu652&show_icons=true&theme=tokyonight)
 
----
+
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dumidu-sahan-279a42325/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dumidu-sahan-279a42325/)
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
+
+
+this is new line i have added
